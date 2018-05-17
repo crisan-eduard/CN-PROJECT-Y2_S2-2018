@@ -75,3 +75,17 @@ def empty_file(filename):
     except:
         print("Error emptying file" + '\n')
         exit(1)
+
+def remove_char_from_string(char, string):
+    result=""
+    for c in string:
+        if c != char:
+            result += c
+    return result
+
+def remove_letters_from_string(string):
+    result = ""
+    for c in string:
+        if c.isdigit():
+            result += c
+    return result
