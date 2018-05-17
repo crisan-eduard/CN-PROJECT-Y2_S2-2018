@@ -1,0 +1,343 @@
+product_name: Placa video MSI NVIDIA GeForce GTX 1070 Ti Gaming 8G, 8GB GDDR5, 256bit
+
+product_price: 2.899,90lei
+
+product_properties: Placa video MSI NVIDIA GeForce GTX 1070 Ti Gaming 8G, 8GB GDDR5, 256bit
+
+--------------------------------------
+product_name: Placa video GIGABYTE NVIDIA GeForce GTX 1060 Windforce OC, 3GB GDDR5, 192bit, GV-N1060WF2OC-3GD
+
+product_price: 1.399,90lei
+
+product_properties: Placa video GIGABYTE NVIDIA GeForce GTX 1060 Windforce OC, 3GB GDDR5, 192bit, GV-N1060WF2OC-3GD
+
+--------------------------------------
+product_name: Placa video GIGABYTE AORUS NVIDIA GeForce GTX 1080Ti, 11GB GDDR5X, 352bit, N108TAORUS-11GD
+
+product_price: 4.999,90lei
+
+product_properties: Placa video GIGABYTE AORUS NVIDIA GeForce GTX 1080Ti, 11GB GDDR5X, 352bit, N108TAORUS-11GD
+
+--------------------------------------
+product_name: Placa video ASUS NVIDIA GeForce GTX 1080 Ti, 11GB GDDR5X, 352bit, TURBO-GTX1080TI-11G
+
+product_price: 4.649,90lei
+
+product_properties: Placa video ASUS NVIDIA GeForce GTX 1080 Ti, 11GB GDDR5X, 352bit, TURBO-GTX1080TI-11G
+
+--------------------------------------
+product_name: Placa video ASUS AMD RADEON RX VEGA64 STRIX, 8GB HBM2, 2048bit, ROG-STRIX-RXVEGA64-O8G-GAMING
+
+product_price: 4.269,90lei
+
+product_properties: Placa video ASUS AMD RADEON RX VEGA64 STRIX, 8GB HBM2, 2048bit, ROG-STRIX-RXVEGA64-O8G-GAMING
+
+--------------------------------------
+product_name: Placa video MSI NVIDIA GeForce GTX 1080, 8GB GDDR5X, 256bit, GTX 1080 AERO 8G OC
+
+product_price: 4.199,90lei
+
+product_properties: Placa video MSI NVIDIA GeForce GTX 1080, 8GB GDDR5X, 256bit, GTX 1080 AERO 8G OC
+
+--------------------------------------
+product_name: Placa video SAPPHIRE AMD Radeon RX Vega 56 Nitro+, 8GB HBM2, 2048bit, 11276-01-40G
+
+product_price: 4.149,90lei
+
+product_properties: Placa video SAPPHIRE AMD Radeon RX Vega 56 Nitro+, 8GB HBM2, 2048bit, 11276-01-40G
+
+--------------------------------------
+product_name: Placa video SAPPHIRE Nitro+ Radeon RX VEGA 64,8GB GDDR5, 11275-03-40G
+
+product_price: 3.968,92lei
+
+product_properties: Placa video SAPPHIRE Nitro+ Radeon RX VEGA 64,8GB GDDR5, 11275-03-40G
+
+--------------------------------------
+product_name: Placa video ASUS NVIDIA GeForce GTX 1080 STRIX GAMING A8G, 8GB GDDR5X, 256bit, STRIX-GTX1080-A8G-GAMING
+
+product_price: 3.649,90lei
+
+product_properties: Placa video ASUS NVIDIA GeForce GTX 1080 STRIX GAMING A8G, 8GB GDDR5X, 256bit, STRIX-GTX1080-A8G-GAMING
+
+--------------------------------------
+product_name: Placa video GIGABYTE NVIDIA GeForce GTX 1070TI AORUS, 8GB GDDR5, 256bit, N107TAORUS-8GD
+
+product_price: 3.599,90lei
+
+product_properties: Placa video GIGABYTE NVIDIA GeForce GTX 1070TI AORUS, 8GB GDDR5, 256bit, N107TAORUS-8GD
+
+--------------------------------------
+product_name: Placa video GIGABYTE NVIDIA GeForce GTX 1080, 8GB GDDR5X, 256bit, GV-N1080WF3OC-8GD
+
+product_price: 3.499,99lei
+
+product_properties: Placa video GIGABYTE NVIDIA GeForce GTX 1080, 8GB GDDR5X, 256bit, GV-N1080WF3OC-8GD
+
+--------------------------------------
+product_name: Placa video MSI NVIDIA GeForce GTX 1070 SEA HAWK EK X, 8GB GDDR5, 256bit, GTX 1070 SEA HAWK EK X
+
+product_price: 3.399,90lei
+
+product_properties: Placa video MSI NVIDIA GeForce GTX 1070 SEA HAWK EK X, 8GB GDDR5, 256bit, GTX 1070 SEA HAWK EK X
+
+--------------------------------------
+product_name: Placa video SAPPHIRE AMD Radeon RX VEGA 56 8G HBM2 PULSE, 8GB HBM2, 2048bit, 11276-02-40G
+
+product_price: 3.239,92lei
+
+product_properties: Placa video SAPPHIRE AMD Radeon RX VEGA56 8G HBM2 PULSE, 8GB HBM2, 2048bit, 11276-02-40G
+
+--------------------------------------
+product_name: Placa video ASUS NVIDIA GeForce GTX 1070 Ti, 8GB GDDR5, 256-bit, CERBERUS-GTX1070TI-A8G
+
+product_price: 3.049,90lei
+
+product_properties: Placa video ASUS NVIDIA GeForce GTX 1070 Ti, 8GB GDDR5, 256-bit, CERBERUS-GTX1070TI-A8G
+
+--------------------------------------
+product_name: Placa video ASUS NVIDIA GeForce GTX 1070 DUAL OC, 8GB GDDR5, 256bit, DUAL-GTX1070-O8G
+
+product_price: 2.799,90lei
+
+product_properties: Placa video ASUS NVIDIA GeForce GTX 1070 DUAL OC, 8GB GDDR5, 256bit, DUAL-GTX1070-O8G
+
+--------------------------------------
+product_name: Placa video ASUS AMD Radeon RX 580, 8GB GDDR5, 256bit, DUAL-RX580-8G
+
+product_price: 2.799,90lei
+
+product_properties: Placa video ASUS AMD Radeon RX 580, 8GB GDDR5, 256bit, DUAL-RX580-8G
+
+--------------------------------------
+product_name: Placa video ASUS AMD Radeon RX 580, 8GB GDDR5, 256bit, STRIX-RX580-T8G-GAMING
+
+product_price: 2.413,90lei
+
+product_properties: Placa video ASUS AMD Radeon RX 580, 8GB GDDR5, 256bit, STRIX-RX580-T8G-GAMING
+
+--------------------------------------
+product_name: Placa video ASUS AMD Radeon RX 580, 8GB GDDR5, STRIX-RX580-O8G-GAM
+
+product_price: 2.346,90lei
+
+product_properties: Placa video ASUS AMD Radeon RX 580, 8GB GDDR5, STRIX-RX580-O8G-GAM
+
+--------------------------------------
+product_name: Placa video SAPPHIRE AMD Radeon RX 580 NITRO+, 8GB GDDR5, 256bit, 11265-21-20G
+
+product_price: 2.063,91lei
+
+product_properties: Placa video SAPPHIRE AMD Radeon RX 580 NITRO+, 8GB GDDR5, 256bit, 11265-21-20G
+
+--------------------------------------
+product_name: Placa video GIGABYTE NVIDIA GeForce GTX 1060 AORUS 6G, 6GB GDDR5, 192bit, GV-N1060AORUS-6GD
+
+product_price: 1.970,90lei
+
+product_properties: Placa video GIGABYTE NVIDIA GeForce GTX 1060 AORUS 6G, 6GB GDDR5, 192bit, GV-N1060AORUS-6GD
+
+
+--------------------------------------
+product_name: Placa video ASUS NVIDIA GeForce GTX 1060 Strix Gaming, 6GB GDDR5, STRIX-GTX1060-6G-GAMING
+
+product_price: 1.949,90lei
+
+product_properties: Placa video ASUS NVIDIA GeForce GTX 1060 Strix Gaming, 6GB GDDR5, STRIX-GTX1060-6G-GAMING
+
+--------------------------------------
+product_name: Placa video ASUS AMD Radeon RX 580 DUAL, 8GB GDDR5, 256bit, DUAL-RX580-O8G
+
+product_price: 1.949,90lei
+
+product_properties: Placa video ASUS AMD Radeon RX 580 DUAL, 8GB GDDR5, 256bit, DUAL-RX580-O8G 
+
+--------------------------------------
+product_name: Placa video Sapphire AMD Radeon RX 570 NITRO+, 8GB GDDR5, 256bit, 11266-09-20G
+
+product_price: 1.919,92lei
+
+product_properties: Placa video Sapphire AMD Radeon RX 570 NITRO+, 8GB GDDR5, 256bit, 11266-09-20G
+
+
+--------------------------------------
+product_name: Placa video ASUS AMD Radeon RX 570 STRIX GAMING, 4GB GDDR5, 256bit, ROG-STRIX-RX570-4G-GAMING
+
+product_price: 1.899,90lei
+
+product_properties: Placa video ASUS AMD Radeon RX 570 STRIX GAMING, 4GB GDDR5, 256bit, ROG-STRIX-RX570-4G-GAMING
+
+--------------------------------------
+product_name: Placa video SAPPHIRE AMD Radeon RX 580 NITRO+, 4GB GDDR5, 256bit, 11265-31-20G
+
+product_price: 1.879,90lei
+
+product_properties: Placa video SAPPHIRE AMD Radeon RX 580 NITRO+, 4GB GDDR5, 256bit, 11265-31-20G
+
+--------------------------------------
+product_name: Placa vidfeo ASUS AMD Radeon RX 580, 4GB GDDR5, 256-bit, DUAL-RX580-O4G
+
+product_price: 1.859,90lei
+
+product_properties: Placa vidfeo ASUS AMD Radeon RX 580, 4GB GDDR5, 256-bit, DUAL-RX580-O4G
+
+--------------------------------------
+product_name: Placa video GIGABYTE AMD AORUS Radeon RX 580, 8GB GDDR5, 256bit, RX580AORUS-8GD
+
+product_price: 1.849,90lei
+
+product_properties: Placa video GIGABYTE AMD AORUS Radeon RX 580, 8GB GDDR5, 256bit, RX580AORUS-8GD
+
+
+--------------------------------------
+product_name: Placa video MSI NVIDIA GeForce GTX 1060, 6GB GDDR5, 192bit, GTX 1060 6GT OCV1
+
+product_price: 1.849,90lei
+
+product_properties: Placa video MSI NVIDIA GeForce GTX 1060, 6GB GDDR5, 192bit, GTX 1060 6GT OCV1
+
+--------------------------------------
+product_name: Placa video GIGABYTE NVIDIA GeForce GTX 1060 G1 GAMING, 6GB GDDR5, 192bit, N1060G1 GAMING-6GD
+
+product_price: 1.819,90lei
+
+product_properties: Placa video GIGABYTE NVIDIA GeForce GTX 1060 G1 GAMING, 6GB GDDR5, 192bit, N1060G1 GAMING-6GD
+
+--------------------------------------
+product_name: Placa video MSI NVIDIA GeForce GTX 1060, 6GB GDDR5, 192bit, GTX 1060 AERO ITX 6G OC
+
+product_price: 1.799,90lei
+
+product_properties: Placa video MSI NVIDIA GeForce GTX 1060, 6GB GDDR5, 192bit, GTX 1060 AERO ITX 6G OC
+
+--------------------------------------
+product_name: Placa video SAPPHIRE NITRO+ AMD Radeon™ RX 580, 8GB GDDR5,  256bit, 11265-01-20G
+
+product_price: 1.789,90lei
+
+product_properties: Placa video SAPPHIRE NITRO+ AMD Radeon™ RX 580, 8GB GDDR5,  256bit, 11265-01-20G
+
+--------------------------------------
+product_name: Placa video SAPPHIRE AMD Radeon RX 580 NITRO+, 4GB GDDR5, 256bit, 11265-07-20G
+
+product_price: 1.719,92lei
+
+product_properties: Placa video SAPPHIRE AMD Radeon RX 580 NITRO+, 4GB GDDR5, 256bit, 11265-07-20G
+
+
+--------------------------------------
+product_name: Placa video GIGABYTE NVIDIA GeForce GTX 1060 Mini ITX OC 6G, 6GB GDDR5, 192bit,  N1060IXOC-6GD
+
+product_price: 1.679,90lei
+
+product_properties: Placa video GIGABYTE NVIDIA GeForce GTX 1060 Mini ITX OC 6G, 6GB GDDR5, 192bit,  N1060IXOC-6GD
+
+--------------------------------------
+product_name: Placa video Sapphire AMD Radeon RX 570 Pulse, 4GB GDDR5, 256bit, 11266-04-20G
+
+product_price: 1.671,91lei
+
+product_properties: Placa video Sapphire AMD Radeon RX 570 Pulse, 4GB GDDR5, 256bit, 11266-04-20G
+
+
+--------------------------------------
+product_name: Placa video Sapphire AMD Radeon RX 580 Pulse, 4GB GDDR5, 256bit, 11265-09-20G
+
+product_price: 1.649,92lei
+
+product_properties: Placa video Sapphire AMD Radeon RX 580 Pulse, 4GB GDDR5, 256bit, 11265-09-20G
+
+
+--------------------------------------
+product_name: Placa video Sapphire AMD Radeon RX 570 NITRO+, 4GB GDDR5, 256bit, 11266-14-20G
+
+product_price: 1.646,41lei
+
+product_properties: Placa video Sapphire AMD Radeon RX 570 NITRO+, 4GB GDDR5, 256bit, 11266-14-20G
+
+
+--------------------------------------
+product_name: Placa video GIGABYTE NVIDIA GeForce GTX 1060, 3GB GDDR5, 192bit, GV-N1060G1 GAMING-3GD V2
+
+product_price: 1.599,90lei
+
+product_properties: Placa video GIGABYTE NVIDIA GeForce GTX 1060, 3GB GDDR5, 192bit, GV-N1060G1 GAMING-3GD V2
+
+--------------------------------------
+product_name: Placa video SAPPHIRE PULSE ITX Radeon™ RX 570, 4GB GDDR5, 256bit, 11266-34-20G
+
+product_price: 1.367,92lei
+
+product_properties: Placa video SAPPHIRE PULSE ITX Radeon™ RX 570, 4GB GDDR5, 256bit, 11266-34-20G
+
+--------------------------------------
+product_name: Placa video MSI NVIDIA GeForce GTX 1060 AERO ITX 3G OC, 3GB GDDR5, 192bit, Aero ITX 1060 3G
+
+product_price: 1.349,90lei
+
+product_properties: Placa video MSI NVIDIA GeForce GTX 1060 AERO ITX 3G OC, 3GB GDDR5, 192bit, Aero ITX 1060 3G
+
+--------------------------------------
+product_name: Placa video ASUS NVIDIA GeForce GTX 1060 Dual OC, 3GB GDDR5, 192bit, DUAL-GTX1060-O3G
+
+product_price: 1.344,90lei
+
+product_properties: Placa video ASUS NVIDIA GeForce GTX 1060 Dual OC, 3GB GDDR5, 192bit, DUAL-GTX1060-O3G
+
+--------------------------------------
+product_name: Placa video MSI NVIDIA GeForce GTX 1050 Ti GAMING X, 4GB GDDR5, 128bit, GTX 1050 TI GAMING X 4G
+
+product_price: 1.119,90lei
+
+product_properties: Placa video MSI NVIDIA GeForce GTX 1050 Ti GAMING X, 4GB GDDR5, 128bit, GTX 1050 TI GAMING X 4G
+
+--------------------------------------
+product_name: Placa video ROG Strix AMD Radeon RX 560, 4GB GDDR5, 128bit, ROG-STRIX-RX560-O4G-GAMING
+
+product_price: 1.049,90lei
+
+product_properties: Placa video ROG Strix AMD Radeon RX 560, 4GB GDDR5, 128bit, ROG-STRIX-RX560-O4G-GAMING
+
+--------------------------------------
+product_name: Placa video GIGABYTE NVIDIA GeForce GTX 1050 Ti OC 4G, 4GB GDDR5, 128bit, GV-N105TOC-4GD
+
+product_price: 1.049,90lei
+
+product_properties: Placa video GIGABYTE NVIDIA GeForce GTX 1050 Ti OC 4G, 4GB GDDR5, 128bit, GV-N105TOC-4GD
+
+--------------------------------------
+product_name: Placa video GIGABYTE AMD Radeon RX 560 Gaming OC 4G, 4GB GDDR5, 128bit, RX560GAMING OC-4GD V2
+
+product_price: 999,90lei
+
+product_properties: Placa video GIGABYTE AMD Radeon RX 560 Gaming OC 4G, 4GB GDDR5, 128bit, RX560GAMING OC-4GD V2
+
+--------------------------------------
+product_name: Placa video MSI NVIDIA GeForce GTX 1050, 4GB GDDR5, 128bit, GTX 1050 TI 4GT OC
+
+product_price: 999,90lei
+
+product_properties: Placa video MSI NVIDIA GeForce GTX 1050, 4GB GDDR5, 128bit, GTX 1050 TI 4GT OC
+
+--------------------------------------
+product_name: Placa video ASUS NVIDIA GeForce GTX 1050 Ti, 4GB GDDR5, 128bit, CERBERUS-GTX1050TI-O4G
+
+product_price: 874,90lei
+
+product_properties: Placa video ASUS NVIDIA GeForce GTX 1050 Ti, 4GB GDDR5, 128bit, CERBERUS-GTX1050TI-O4G
+
+--------------------------------------
+product_name: Placa video ASUS NVIDIA GeForce GTX 1050 STRIX GAMING, 2GB GDDR5, 128bit,  STRIX-GTX1050-2G-GAMING
+
+product_price: 849,90lei
+
+product_properties: Placa video ASUS NVIDIA GeForce GTX 1050 STRIX GAMING, 2GB GDDR5, 128bit,  STRIX-GTX1050-2G-GAMING
+
+--------------------------------------
+product_name: Placa video GIGABYTE NVIDIA GeForce GTX 1050 Windforce OC, 2GB GDDR5, 128bit, GV-N1050WF2OC-2GD
+
+product_price: 836,99lei
+
+product_properties: Placa video GIGABYTE NVIDIA GeForce GTX 1050 Windforce OC, 2GB GDDR5, 128bit, GV-N1050WF2OC-2GD
+
+--------------------------------------
